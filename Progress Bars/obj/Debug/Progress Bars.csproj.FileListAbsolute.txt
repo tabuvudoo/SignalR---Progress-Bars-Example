@@ -1,0 +1,17 @@
+C:\Users\liam.logue.MEASURESOFT\SignalR\Progress Bars\Progress Bars\bin\Progress Bars.dll
+C:\Users\liam.logue.MEASURESOFT\SignalR\Progress Bars\Progress Bars\bin\Progress Bars.pdb
+C:\Users\liam.logue.MEASURESOFT\SignalR\Progress Bars\Progress Bars\bin\Microsoft.AspNet.SignalR.Core.dll
+C:\Users\liam.logue.MEASURESOFT\SignalR\Progress Bars\Progress Bars\bin\Microsoft.AspNet.SignalR.Owin.dll
+C:\Users\liam.logue.MEASURESOFT\SignalR\Progress Bars\Progress Bars\bin\Microsoft.AspNet.SignalR.SystemWeb.dll
+C:\Users\liam.logue.MEASURESOFT\SignalR\Progress Bars\Progress Bars\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\liam.logue.MEASURESOFT\SignalR\Progress Bars\Progress Bars\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\liam.logue.MEASURESOFT\SignalR\Progress Bars\Progress Bars\bin\Newtonsoft.Json.dll
+C:\Users\liam.logue.MEASURESOFT\SignalR\Progress Bars\Progress Bars\bin\Owin.dll
+C:\Users\liam.logue.MEASURESOFT\SignalR\Progress Bars\Progress Bars\bin\Microsoft.AspNet.SignalR.Core.xml
+C:\Users\liam.logue.MEASURESOFT\SignalR\Progress Bars\Progress Bars\bin\Microsoft.AspNet.SignalR.Owin.xml
+C:\Users\liam.logue.MEASURESOFT\SignalR\Progress Bars\Progress Bars\bin\Microsoft.AspNet.SignalR.SystemWeb.xml
+C:\Users\liam.logue.MEASURESOFT\SignalR\Progress Bars\Progress Bars\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\liam.logue.MEASURESOFT\SignalR\Progress Bars\Progress Bars\bin\Newtonsoft.Json.xml
+C:\Users\liam.logue.MEASURESOFT\SignalR\Progress Bars\Progress Bars\obj\Debug\Progress Bars.csprojResolveAssemblyReference.cache
+C:\Users\liam.logue.MEASURESOFT\SignalR\Progress Bars\Progress Bars\obj\Debug\Progress Bars.dll
+C:\Users\liam.logue.MEASURESOFT\SignalR\Progress Bars\Progress Bars\obj\Debug\Progress Bars.pdb

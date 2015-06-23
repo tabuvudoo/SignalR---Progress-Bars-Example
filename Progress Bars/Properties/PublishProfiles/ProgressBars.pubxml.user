@@ -1,0 +1,95 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+This file is used by the publish/package process of your Web project. You can customize the behavior of this process
+by editing this MSBuild file. In order to learn more about this please visit http://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <LastUsedBuildConfiguration>Release</LastUsedBuildConfiguration>
+    <LastUsedPlatform>Any CPU</LastUsedPlatform>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+  </PropertyGroup>
+  <ItemGroup>
+    <File Include="bin/Microsoft.AspNet.SignalR.Core.dll">
+      <publishTime>10/07/2013 09:18:38</publishTime>
+    </File>
+    <File Include="bin/Microsoft.AspNet.SignalR.Owin.dll">
+      <publishTime>10/07/2013 09:18:38</publishTime>
+    </File>
+    <File Include="bin/Microsoft.AspNet.SignalR.SystemWeb.dll">
+      <publishTime>10/07/2013 09:18:39</publishTime>
+    </File>
+    <File Include="bin/Microsoft.Owin.Host.SystemWeb.dll">
+      <publishTime>10/07/2013 09:18:39</publishTime>
+    </File>
+    <File Include="bin/Microsoft.Web.Infrastructure.dll">
+      <publishTime>10/07/2013 09:18:38</publishTime>
+    </File>
+    <File Include="bin/Newtonsoft.Json.dll">
+      <publishTime>10/07/2013 09:18:37</publishTime>
+    </File>
+    <File Include="bin/Owin.dll">
+      <publishTime>10/07/2013 09:18:38</publishTime>
+    </File>
+    <File Include="bin/Progress Bars.dll">
+      <publishTime>10/07/2013 16:38:03</publishTime>
+    </File>
+    <File Include="css/bootstrap-theme.css">
+      <publishTime>10/07/2013 09:19:45</publishTime>
+    </File>
+    <File Include="css/bootstrap-theme.min.css">
+      <publishTime>10/07/2013 09:19:45</publishTime>
+    </File>
+    <File Include="css/bootstrap.css">
+      <publishTime>10/07/2013 09:19:45</publishTime>
+    </File>
+    <File Include="css/bootstrap.min.css">
+      <publishTime>10/07/2013 09:19:45</publishTime>
+    </File>
+    <File Include="font/glyphicons-halflings-regular.eot">
+      <publishTime>10/07/2013 09:20:02</publishTime>
+    </File>
+    <File Include="font/glyphicons-halflings-regular.svg">
+      <publishTime>10/07/2013 09:20:02</publishTime>
+    </File>
+    <File Include="font/glyphicons-halflings-regular.ttf">
+      <publishTime>10/07/2013 09:20:02</publishTime>
+    </File>
+    <File Include="font/glyphicons-halflings-regular.woff">
+      <publishTime>10/07/2013 09:20:02</publishTime>
+    </File>
+    <File Include="Global.asax">
+      <publishTime>10/07/2013 09:34:34</publishTime>
+    </File>
+    <File Include="index.html">
+      <publishTime>10/07/2013 16:47:35</publishTime>
+    </File>
+    <File Include="js/bootstrap.js">
+      <publishTime>10/07/2013 09:20:10</publishTime>
+    </File>
+    <File Include="js/bootstrap.min.js">
+      <publishTime>10/07/2013 09:20:10</publishTime>
+    </File>
+    <File Include="js/ProgressBars.js">
+      <publishTime>10/07/2013 16:51:33</publishTime>
+    </File>
+    <File Include="packages.config">
+      <publishTime>10/07/2013 09:18:52</publishTime>
+    </File>
+    <File Include="Scripts/jquery-1.6.4.js">
+      <publishTime>10/07/2013 09:18:41</publishTime>
+    </File>
+    <File Include="Scripts/jquery-1.6.4.min.js">
+      <publishTime>10/07/2013 09:18:41</publishTime>
+    </File>
+    <File Include="Scripts/jquery.signalR-1.1.3.js">
+      <publishTime>10/07/2013 09:18:49</publishTime>
+    </File>
+    <File Include="Scripts/jquery.signalR-1.1.3.min.js">
+      <publishTime>10/07/2013 09:18:49</publishTime>
+    </File>
+    <File Include="Web.config">
+      <publishTime>10/07/2013 16:51:40</publishTime>
+    </File>
+  </ItemGroup>
+</Project>
